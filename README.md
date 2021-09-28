@@ -11,7 +11,7 @@ password: password
 Database Backup available inside Database Folder.
 
 1. Dashboard
-2. Change Password - Compelete Working Workflow
+2. Change Password - Complete Working Workflow
 3. Logout 
 
 
